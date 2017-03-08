@@ -1,0 +1,13 @@
+# Second run, motor upside down, also measuring current
+duty cycle,weight,current
+5.6,0,0
+5.7,6,0.13
+5.8,6,0.13
+5.9,9,0.17
+6.0,13,0.23
+6.1,18,0.30
+6.2,22,0.39
+6.3,29,0.49
+6.4,35,0.61
+6.5,41,0.71
+6.6,48,0.85

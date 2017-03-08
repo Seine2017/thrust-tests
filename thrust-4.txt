@@ -1,0 +1,10 @@
+# Third run (part 2), motor right way up, on fancy scales
+# Weight at zero thrust: 2784g
+duty cycle,weight,current
+7.5,2604,2.70
+7.6,2590,3.05
+7.7,2570,3.40
+7.8,2544,3.70
+7.9,2525,4.10
+8.0,2505,4.50
+8.1,2490,4.80
